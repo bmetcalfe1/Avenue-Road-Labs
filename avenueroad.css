@@ -70,6 +70,12 @@ img {
 	margin-bottom: -8rem;
 }
 
+.sign {
+	height: 300px;
+	width: 300px;
+	float: right;
+}
+
 .feature-dark {
 	background: #262F36;
 	color: white;

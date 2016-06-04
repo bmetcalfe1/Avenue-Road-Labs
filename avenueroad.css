@@ -67,13 +67,14 @@ img {
 }
 
 .feature-content img {
-	margin-bottom: -8rem;
+	margin-bottom: -4rem;
 }
 
 .sign {
 	height: 300px;
 	width: 300px;
 	float: right;
+	padding-bottom: 50px;
 }
 
 .feature-dark {

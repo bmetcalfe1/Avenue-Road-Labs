@@ -11,7 +11,11 @@ body {
 	color: #6c6f73;
 }
 
-h1, h2, h3, h4, h5 {
+h1 {
+	color: #003399;
+}
+
+h2, h3, h4, h5 {
 	color: #333;
 }
 
@@ -40,7 +44,7 @@ img {
 #stage {
 	background: url("mainimages/eglintonAve1935.jpg") center center no-repeat;
 	background-size: cover;
-	color: #003399;
+	color: white;
 	height: 100%;
 	width: 100%;
 	display: flex;
@@ -56,7 +60,7 @@ img {
 }
 
 #stage-caption h1 {
-	color: white;
+	color: #003399;
 	font-weight: bold;
 	text-transform: uppercase;
 }

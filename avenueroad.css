@@ -62,19 +62,18 @@ img {
 }
 
 .feature-content {
-	padding: 8rem 0;
+	padding: 3rem 0;
 	overflow: hidden;
-}
-
-.feature-content img {
-	margin-bottom: -4rem;
 }
 
 .sign {
 	height: 300px;
-	width: 300px;
-	float: right;
-	padding-bottom: 50px;
+	width: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	overflow: hidden;
 }
 
 .feature-dark {

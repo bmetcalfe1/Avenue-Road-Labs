@@ -100,14 +100,22 @@ img {
 }
 
 #mapStyles {
-	color: #003399;
-	font-weight: bold;
+	color: white;
 	padding: 8rem 0;
+	align-items: center;
+}
+
+#mapStyles h2 {
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+	text-align: center;
 }
 
 #mapStyles h6 {
 	color: black;
 	font-weight: bold;
+	text-align: center;
 }
 
 .feature-alt {

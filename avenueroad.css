@@ -90,7 +90,7 @@ img {
 }
 
 #intersection {
-	background: url("mainimages/map.jpg") center center no-repeat;
+	background: url("mainimages/map2.jpg") center center no-repeat;
 	background-size: cover;
 	color: white;
 	height: 100%;
@@ -100,6 +100,13 @@ img {
 }
 
 #mapStyles {
+	color: #003399;
+	font-weight: bold;
+	padding: 8rem 0;
+}
+
+#mapStyles h6 {
+	color: black;
 	font-weight: bold;
 }
 

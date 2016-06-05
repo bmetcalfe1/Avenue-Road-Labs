@@ -85,12 +85,22 @@ img {
 	color: white;
 }
 
-.flavor {
-	color: #003399;
-}
-
 .profile {
 	padding: 2rem 0;
+}
+
+#intersection {
+	background: url("mainimages/map.jpg") center center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 100%;
+	width: 100%;
+	display: flex;
+	align-items: center;
+}
+
+#mapStyles {
+	font-weight: bold;
 }
 
 .feature-alt {

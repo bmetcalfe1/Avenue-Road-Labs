@@ -85,6 +85,14 @@ img {
 	color: white;
 }
 
+.flavor {
+	color: #003399;
+}
+
+.profile {
+	padding: 2rem 0;
+}
+
 .feature-alt {
 	background: #f0f0f0;
 }

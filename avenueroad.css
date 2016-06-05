@@ -122,24 +122,11 @@ img {
 	color:#003399; 
 }
 
-.feature-alt {
-	background: #f0f0f0;
-}
-
 #main-footer {
 	background: #262F36;
-	color: white;
-	padding: 6rem 0;
+	padding: 3rem 0;
 	font-size: 0.8rem;
 	text-align: center;
-}
-
-#main-footer h6 {
-	color: #718FA9;
-}
-
-#main-footer a {
-	color: #6c6f73;
 }
 
 @media screen and ( min-width: 991px) {
